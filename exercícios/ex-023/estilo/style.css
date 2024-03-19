@@ -17,6 +17,7 @@
 header {
     background-color: var(--cor2);
     padding: 40px;
+    size: 100vh;
     
 }
 
@@ -37,7 +38,7 @@ header > p {
 
 }
 
-article > p {
+article > section {
     font-family: var(--fonte-principal);
 }
 
