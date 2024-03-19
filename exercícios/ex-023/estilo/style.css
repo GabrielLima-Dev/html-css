@@ -16,17 +16,19 @@
 
 header {
     background-color: var(--cor2);
-    padding: 40px;
-    size: 100vh;
+    padding: 100px;
+    margin: -10px -12px -10px;
+
     
 }
 
 header > h1 {
     color: white;
     text-align: center;
-    font-size: 60px;
+    font-size: 140px;
     font-family: var(--fonte-especial);
     margin: 0%;
+    padding-top: 10px;
 }
 
 header > p {
