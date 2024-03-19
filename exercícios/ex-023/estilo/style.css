@@ -12,15 +12,12 @@
    --cor2: #000000;
 }
 
-main {
-    max-width: 800px;
-    min-width: 300px;
-}
+
 
 header {
     background-color: var(--cor2);
     padding: 40px;
-
+    
 }
 
 header > h1 {
