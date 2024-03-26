@@ -16,6 +16,15 @@
 
         table {
             width: 400px;
+            border-collapse: collapse;
+        }
+
+        tr.linha {
+            background-color: darkblue;
+        }
+
+        td.dado {
+            background-color: darkgray;
         }
     </style>
 </head>
@@ -26,14 +35,14 @@
         </p>
     </h1>
     <table>
-          <tr>
+          <tr class="linha">
              <td>A1</td>
              <td>B1</td>
              <td>C1</td>
           </tr>
 
           <tr>
-              <td>A2</td>
+              <td class="dado">A2</td>
               <td>B2</td>
               <td>C2</td>
           </tr>
