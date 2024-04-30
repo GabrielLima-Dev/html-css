@@ -94,15 +94,9 @@ section.imagem > p {
     text-shadow: 1px 1px 0px black;
 }
 
-section#imagem01 {
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
 
-section#imagem02 {
+
+section#livros02 {
     background-image: url('../imagens/background002.jpg');
     background-size: cover;
     background-repeat: right center;
